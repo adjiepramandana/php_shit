@@ -1,0 +1,35 @@
+{
+  "name": "php_shit",
+  "version": "1.0.0",
+  "description": "PHP SHIT IS A PHP FUNCTIONS FRAMEWORK AND BUILD FOR MAKE YOUR WORK VERY SIMPLE (BETA VERSION)",
+  "main": "php_shit_beta.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adjiepramandana/php_shit.git"
+  },
+  "keywords": [
+    "cli",
+    "php",
+    "framework",
+    "php",
+    "shit",
+    "laravel",
+    "ci",
+    "code",
+    "igniter",
+    "less",
+    "framework",
+    "php",
+    "function",
+    "functions"
+  ],
+  "author": "adjiepramandana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adjiepramandana/php_shit/issues"
+  },
+  "homepage": "https://github.com/adjiepramandana/php_shit#readme"
+}
